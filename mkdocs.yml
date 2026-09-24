@@ -3,8 +3,8 @@ site_url: https://alex-furrier.github.io/ai-sleepwalker/
 site_description: Don't let your computer go to sleep, let AI sleepwalk through it
 site_author: alex furrier
 
-repo_name: safurrier/ai-sleepwalker
-repo_url: https://github.com/safurrier/ai-sleepwalker
+repo_name: alex-furrier/ai-sleepwalker
+repo_url: https://github.com/alex-furrier/ai-sleepwalker
 edit_uri: edit/main/docs/
 
 theme:
@@ -78,4 +78,4 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/safurrier/ai-sleepwalker
+      link: https://github.com/alex-furrier/ai-sleepwalker
