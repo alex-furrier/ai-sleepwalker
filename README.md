@@ -155,9 +155,9 @@ Beyond dreams, planned modes include:
 
 ## Get Help
 
-- **[Full Documentation](https://safurrier.github.io/ai-sleepwalker/)** - Complete setup and usage guide
-- **[Quick Start Guide](https://safurrier.github.io/ai-sleepwalker/getting-started/)** - Installation and first run
-- **[Developer Guide](https://safurrier.github.io/ai-sleepwalker/developer-guide/)** - Contributing and development
+- **[Full Documentation](https://alex-furrier.github.io/ai-sleepwalker/)** - Complete setup and usage guide
+- **[Quick Start Guide](https://alex-furrier.github.io/ai-sleepwalker/getting-started/)** - Installation and first run
+- **[Developer Guide](https://alex-furrier.github.io/ai-sleepwalker/developer-guide/)** - Contributing and development
 - **[GitHub Issues](https://github.com/safurrier/ai-sleepwalker/issues)** - Bug reports and feature requests
 
 ## License
