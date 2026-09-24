@@ -146,7 +146,7 @@ Documentation is auto-deployed to GitHub Pages when changes are pushed to main.
 
 ### Writing Documentation
 
-- Follow the [writing conventions](https://github.com/alex-furrier/ai-sleepwalker/docs)
+- See the [contribution guidelines](https://github.com/alex-furrier/ai-sleepwalker/blob/main/CONTRIBUTING.md) for general contribution requirements
 - Avoid LLM buzzwords and academic language
 - Focus on practical examples and user needs
 - Test all code examples before committing
