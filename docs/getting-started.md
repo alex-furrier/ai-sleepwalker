@@ -5,13 +5,13 @@
 Install AI Sleepwalker as a uv tool - this keeps it isolated and available everywhere:
 
 ```bash
-uv tool install git+https://github.com/safurrier/ai-sleepwalker.git
+uv tool install git+https://github.com/alex-furrier/ai-sleepwalker.git
 ```
 
 Or clone and install locally:
 
 ```bash
-git clone https://github.com/safurrier/ai-sleepwalker.git
+git clone https://github.com/alex-furrier/ai-sleepwalker.git
 cd ai-sleepwalker
 uv tool install .
 ```
@@ -105,7 +105,7 @@ Some systems require additional permissions for sleep prevention. The sleepwalke
 ## What's Next?
 
 - Read the [API Reference](reference/api.md) for advanced usage
-- Check [GitHub Issues](https://github.com/safurrier/ai-sleepwalker/issues) for known issues
+- Check [GitHub Issues](https://github.com/alex-furrier/ai-sleepwalker/issues) for known issues
 - Join discussions about new experience modes
 
 ## Development Setup

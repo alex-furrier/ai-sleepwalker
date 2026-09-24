@@ -20,13 +20,13 @@ Think of it as a digital pet that explores your filesystem and writes poetry abo
 Install as a uv tool (recommended):
 
 ```bash
-uv tool install git+https://github.com/safurrier/ai-sleepwalker.git
+uv tool install git+https://github.com/alex-furrier/ai-sleepwalker.git
 ```
 
 Or clone and install:
 
 ```bash
-git clone https://github.com/safurrier/ai-sleepwalker.git
+git clone https://github.com/alex-furrier/ai-sleepwalker.git
 cd ai-sleepwalker
 uv tool install .
 ```
@@ -159,4 +159,4 @@ Beyond dreams, planned modes include:
 
 - [Getting Started Guide](getting-started.md) - detailed setup and usage
 - [API Reference](reference/api.md) - technical documentation
-- [GitHub Issues](https://github.com/safurrier/ai-sleepwalker/issues) - bug reports and feature requests
+- [GitHub Issues](https://github.com/alex-furrier/ai-sleepwalker/issues) - bug reports and feature requests
